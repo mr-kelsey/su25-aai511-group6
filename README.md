@@ -5,10 +5,17 @@ This project is a part of the AAI-510 course in the Applied Artificial Intellige
 -- Project Status: [Planned, **Active**, On-hold, Completed]
 
 #### Installation
-Clone repo and run notebooks
+Create Virtual environment
+`python -m venv env`
+
+Install requirements
+`pip install -r requirements.txt`
+
+Setup OS Distro FluidSynth with accompanying Soundfont
+`Google it`
 
 #### Project Intro/Objective
-TBD
+The primary objective of this project is to develop a deep learning model that can predict the composer of a given musical score accurately. The project aims to accomplish this objective by using two deep learning techniques: Convolutional Neural Network (CNN) combined with Long Short-Term Memory (LSTM).
 
 #### Partner(s)/Contributor(s)
 * Anitra Hernandez
@@ -24,13 +31,13 @@ TBD
 * Data Visualization
 * Data Manipulation
 
-
 #### Technologies
 * Python
 * CNN
+* LSTM
 
 #### Project Abstract
-TBD
+A CNN processes sequence data by applying sliding convolutional filters to the input. It can learn features from both spatial and time dimensions. An LSTM network processes sequence data by looping over time steps and learning long-term dependencies between those steps. In this project, we are using a CNN-LSTM network to learn from the training data and make predictions regarding which composer made a particuar piece of music.
 
 #### License
 GNU GENERAL PUBLIC LICENSE Version 3
