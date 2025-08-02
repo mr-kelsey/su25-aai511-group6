@@ -2,7 +2,7 @@
 
 This project is a part of the AAI-510 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
--- Project Status: [Planned, **Active**, On-hold, Completed]
+-- Project Status: [Planned, Active, On-hold, **Completed**]
 
 #### Installation
 Create Virtual environment
@@ -19,11 +19,11 @@ The primary objective of this project is to develop a deep learning model that c
 
 #### Partner(s)/Contributor(s)
 * Anitra Hernandez
-* Anitra's Github
+* [https://github.com/Anitra-Hernandez](https://github.com/Anitra-Hernandez)
 * Johnathan Kelsey
 * [https://github.com/mr-kelsey](https://github.com/mr-kelsey)
 * Lakshmi Deepti Pamula
-* Deepti's github
+* [https://github.com/lpam-sd](https://github.com/lpam-sd)
 
 #### Methods Used
 * Machine Learning
